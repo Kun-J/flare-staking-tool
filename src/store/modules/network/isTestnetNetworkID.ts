@@ -3,5 +3,6 @@
  * @param id
  */
 export function isTestnetNetworkID(id: number) {
-    return id === 5
+    return id === 114
 }
+
